@@ -6,12 +6,16 @@ import reportWebVitals from './reportWebVitals';
 import ReactGa from 'react-ga'
 import { Helmet } from 'react-helmet'
 
+const trackingID = process.env.NODE_ENV === "development" || process.env.NODE_ENV === "test" ? null : 'UA-158221881-2';
+ReactGA.initialize(trackingID);
+
 ReactDOM.render(
+
   <React.StrictMode>
     {/* <Helmet>
       <meta charSet="utf-8" />
       <title>Happy Code!</title> */}
-      {/* <meta name="description" content="Online Christmas card" />
+    {/* <meta name="description" content="Online Christmas card" />
       <noscript>
         Online christmas card <br />
         You need to enable JavaScript to run this app.
