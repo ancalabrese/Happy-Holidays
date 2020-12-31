@@ -8,9 +8,10 @@
 
 .credits{ 
   position:absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 12px;
+  right: 14px;
   font-size: 0.9rem;
   color: #4a4a4a;
   cursor: pointer;
+  z-index:  5;
 }

@@ -36,7 +36,7 @@ function App() {
         </Col>
       </Row>
       <div className={Style.credits} onClick={() => onLinkClick("https://antonio-calabrese.com")}>
-        Created By: Antonio Calabrese.
+        Created By: <u>Antonio Calabrese</u>
       </div>
     </Container>
   );
