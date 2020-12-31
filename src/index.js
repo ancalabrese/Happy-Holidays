@@ -8,9 +8,9 @@ import { Helmet } from 'react-helmet'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Helmet>
+    {/* <Helmet>
       <meta charSet="utf-8" />
-      <title>Happy Code!</title>
+      <title>Happy Code!</title> */}
       {/* <meta name="description" content="Online Christmas card" />
       <noscript>
         Online christmas card <br />
@@ -19,7 +19,7 @@ ReactDOM.render(
       <link rel="canonical" href="http://mysite.com/example" />
       <meta name="keywords" content="Christmas, Card, Christmas card,Christmas card online, wishes, new year" />
       <meta name="author" content="Antonio Calabrese" /> */}
-    </Helmet>
+    {/* </Helmet> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
