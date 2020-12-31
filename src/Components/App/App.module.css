@@ -6,3 +6,11 @@
   overflow: hidden;
 }
 
+.credits{ 
+  position:absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 0.9rem;
+  color: #4a4a4a;
+  cursor: pointer;
+}
