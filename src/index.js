@@ -7,7 +7,7 @@ import ReactGa from 'react-ga'
 import { Helmet } from 'react-helmet'
 
 const trackingID = process.env.NODE_ENV === "development" || process.env.NODE_ENV === "test" ? null : 'UA-158221881-2';
-ReactGA.initialize(trackingID);
+ReactGa.initialize(trackingID);
 
 ReactDOM.render(
 
