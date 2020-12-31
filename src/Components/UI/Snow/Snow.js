@@ -2,7 +2,7 @@ import React from 'react'
 import SnowFlake from './SnowFlake/SnowFlake'
 
 const Snow = () => {
-    const snowflakes = Array(30);
+    const snowflakes = Array(40);
     for (var i = 0; i < snowflakes.length; i++) {
         snowflakes[i] = <SnowFlake key={i} />
     }
