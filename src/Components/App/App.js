@@ -24,9 +24,9 @@ function App() {
         <Col className={"align-items-center"} xs={{ span: 12 }} md={{ span: 6 }} lg={{ span: 4 }} >
           <RoundWishBox />
         </Col>
-        <Col className={"align-items-end"} xs={{ span: 6 }} md={{ span: 4 }} >
-            Created By:<a href="https://antonio-calabarese.com">Antonio Calabrese</a>
-          </Col>
+        {/* <Col className={"align-items-end"}>
+          <p>Created By:<a href="https://antonio-calabarese.com/">Antonio Calabrese</a></p>
+        </Col> */}
 
       </Row>
     </Container>
