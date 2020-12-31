@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Happy-Code/static/css/main.95c73880.chunk.css",
+    "main.js": "/Happy-Code/static/js/main.51270a74.chunk.js",
+    "main.js.map": "/Happy-Code/static/js/main.51270a74.chunk.js.map",
+    "runtime-main.js": "/Happy-Code/static/js/runtime-main.46e2b387.js",
+    "runtime-main.js.map": "/Happy-Code/static/js/runtime-main.46e2b387.js.map",
+    "static/js/2.b0bdb2f7.chunk.js": "/Happy-Code/static/js/2.b0bdb2f7.chunk.js",
+    "static/js/2.b0bdb2f7.chunk.js.map": "/Happy-Code/static/js/2.b0bdb2f7.chunk.js.map",
+    "static/js/3.adedfe24.chunk.js": "/Happy-Code/static/js/3.adedfe24.chunk.js",
+    "static/js/3.adedfe24.chunk.js.map": "/Happy-Code/static/js/3.adedfe24.chunk.js.map",
+    "index.html": "/Happy-Code/index.html",
+    "static/css/main.95c73880.chunk.css.map": "/Happy-Code/static/css/main.95c73880.chunk.css.map",
+    "static/js/2.b0bdb2f7.chunk.js.LICENSE.txt": "/Happy-Code/static/js/2.b0bdb2f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e2b387.js",
+    "static/js/2.b0bdb2f7.chunk.js",
+    "static/css/main.95c73880.chunk.css",
+    "static/js/main.51270a74.chunk.js"
+  ]
+}
